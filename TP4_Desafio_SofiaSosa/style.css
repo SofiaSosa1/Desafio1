@@ -1,0 +1,58 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color: black;
+     text-align: center;
+}
+
+h1{
+    background-color:red;
+    text-align: center;
+}
+
+#contenido h3{
+    color:white;
+}
+
+#contenido #aclaracion{
+    color:red;
+}
+
+#contenido h5{
+    color:white;
+    background-color: rgba(241, 241, 158, 0.267);
+}
+
+#contenido h2{
+    color: white;
+    text-align: center;
+}
+
+.opcion{
+    text-align: center;
+}
+#contenido img {
+    width: 300px;
+    height: 300px;
+    
+}
+#contenido{
+    text-align: center;
+}
+
+footer h5{
+    background-color: rgb(86, 187, 201);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+#volver{
+    margin-top: 4px;
+    float: inline-end;
+  background-color: white;
+}
+.boton{
+background-color: aqua;
+}
